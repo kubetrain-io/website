@@ -1,0 +1,6 @@
+baseURL = 'https://kubetrain.io/'
+languageCode = 'en-us'
+title = 'KubeTrain'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+enableRobotTXT = true
