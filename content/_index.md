@@ -14,8 +14,6 @@ train.
 
 ## Next editions
 
-* KubeCon North America - November 6-9 2023 - Chicago, Illinois
-
 * KubeCon Europe - March 19-22 2024 - Paris, France
 
 
