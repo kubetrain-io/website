@@ -12,10 +12,26 @@ KubeCon attendees. The aim of this initiative is to organize groups of
 people that are willing to travel to the next destination of KubeCon by
 train.
 
-## Next editions
+## Next edition - KubeCon EU - Paris, France
 
-* KubeCon Europe - March 19-22 2024 - Paris, France
+Departures from: **Coming soon...***
 
+<!--
 
+🇬🇧 **UK - London**
 
-KubeTrain is a non-profit initiative organized by members of the comunity.
+🇪🇸 **Spain - Barcelona**
+
+🇧🇪 **Belgium - Brussels**
+
+🇳🇱 **Netherlands - Amsterdam**
+
+🇩🇪 **Germany - Frankfurt, Munich …**
+
+🇨🇭 **Switzerland - Geneva, Zurich**
+
+🇮🇹 **Italy - Milan, Turin**
+
+🇦🇹 **Austria - Vienna …**
+
+-->

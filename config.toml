@@ -4,3 +4,7 @@ title = 'KubeTrain'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 enableRobotTXT = true
+sectionPagesMenu = 'main' # Enable submenus
+
+[params]
+mainSections = [] # Disable recent posts in homepage
