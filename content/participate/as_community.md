@@ -7,10 +7,8 @@ cascade:
   featured_image: '/images/train.jpeg'
 ---
 
-Do you think people would be interested traveling to KubeCon from
-`$wherever_your_community_is_based`? 🚄
-
-Let's make it happen! 🎉
+Do you think people would be interested traveling to KubeCon from where
+you're based? 🚄
 
 <!--more-->
 
