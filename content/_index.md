@@ -12,9 +12,11 @@ KubeCon attendees. The aim of this initiative is to organize groups of
 people that are willing to travel to the next destination of KubeCon by
 train.
 
-## Next edition - KubeCon EU - Paris, France
+# Next edition
 
-Departures from: **Coming soon...***
+## 🇫🇷 KubeCon EU - Paris, France 🇫🇷
+
+Departures from: **Coming soon...**
 
 <!--
 

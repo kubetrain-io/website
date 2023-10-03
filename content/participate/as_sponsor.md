@@ -21,7 +21,7 @@ As a sponsor, your role is key to the success to this initiative:
 
 **Providing sustainable and fun travel to KubeCon.**
 
-## How to participate?
+## How to participate
 
 Head to the [Departures]({{< ref "/departures" >}}) page and find if there
 is already a KubeTrain leaving from the departure station that you would
@@ -35,7 +35,7 @@ online. Reach out to us using the [About]({{< ref "/about" >}}) page or
 directly at `{{< cloakemail "info@kubetrain.io" >}}`. We will get back to you
 and put you in contact with the right person.
 
-## What do you get?
+## What do you get
 
 📌 **Visibility and Brand Awareness within your community** - We will make sure
 that your company and brand get as much visibility as possible during the

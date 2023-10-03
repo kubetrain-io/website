@@ -19,7 +19,8 @@ form of transportation:
 💸 Train travel can be **expensive**, at times more expensive than
 travelling by plane
 
-🥱 Train travel can take **longer** for destinations that are further away
+🥱 Train travel can take **a long time** for destinations that are further
+away
 
 ### How do we plan to fix that?
 
