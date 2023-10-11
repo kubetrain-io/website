@@ -14,16 +14,16 @@ that are willing to travel to the next destination of KubeCon by train.
 ---
 
 Preparation is in full-swing, if you want to know more about it have
-a look at [The Plan]({{< ref "/the_plan" >}}).
+a look at [The Plan]({{< relref "/the_plan" >}}).
 
 **How can you help or participate? I am glad you asked** 😊
 
 We have dedicated page for you depending if you wish to
-[participate]({{< ref "/participate/as_traveler" >}}), [organize]({{< ref
-"/participate/as_community" >}}) or [sponsor]({{< ref
+[participate]({{< relref "/participate/as_traveler" >}}), [organize]({{< relref
+"/participate/as_community" >}}) or [sponsor]({{< relref
 "/participate/as_sponsor" >}}) this initiative. Have a look at them!
 
-More questions? [Contact us]({{< ref "/about" >}}) 📫
+More questions? [Contact us]({{< relref "/about" >}}) 📫
 
 # Next edition
 
