@@ -15,7 +15,7 @@ Sounds great! We are sure you are going to love it 🎉
 
 ## How to participate
 
-Check out the [Departures]({{< relref "/departures" >}}) page and see if
+Check out the [Departures](/departures) page and see if
 there is already a KubeTrain leaving from your depature. There is one
 already? That's great! Follow the info on the dedicated page and you are
 ready to go.
@@ -23,15 +23,14 @@ ready to go.
 **No KubeTrain leaving from your departure?**
 
 Don't desperate, it might come in the future! Reach out to us using the
-[About]({{< relref "/about" >}}) page or directly at `{{< cloakemail
+[About](/about) page or directly at `{{< cloakemail
 "info@kubetrain.io" >}}`. We will let you now in case things change in the
 future.
 
 **Maybe you want to kickstart this initiative for your city?**
 
-Head over to the [participate as community]({{< relref
-"participate/as_community"
->}}) page and read the instructions over there.
+Head over to the [participate as community](/participate/as_community)
+page and read the instructions over there.
 
 ## What do you get
 

@@ -23,7 +23,7 @@ As a sponsor, your role is key to the success to this initiative:
 
 ## How to participate
 
-Head to the [Departures]({{< ref "/departures" >}}) page and find if there
+Head to the [Departures](/departures) page and find if there
 is already a KubeTrain leaving from the departure station that you would
 like to sponsor. You will find a way to contact the organizers via email
 and they will bring you up to speed in no time.
@@ -31,7 +31,7 @@ and they will bring you up to speed in no time.
 **The departure you would like to sponsor is not listed?**
 
 Community organizers might still be discussing the details before posting it
-online. Reach out to us using the [About]({{< ref "/about" >}}) page or
+online. Reach out to us using the [About](/about) page or
 directly at `{{< cloakemail "info@kubetrain.io" >}}`. We will get back to you
 and put you in contact with the right person.
 
