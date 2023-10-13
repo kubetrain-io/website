@@ -1,15 +1,15 @@
 ---
-title: "🇬🇧 London"
+title: "🇩🇪 Berlin"
 
 description: ""
 type: page
 cascade:
   featured_image: '/images/train.jpeg'
 
-weight: 45
+weight: 5
 ---
 
-**Contact:** {{< cloakemail "london@kubetrain.io" >}}
+**Contact:** {{< cloakemail "berlin@kubetrain.io" >}}
 
 **Status:** {{< badge text="Planning" icon="sync" >}}
 

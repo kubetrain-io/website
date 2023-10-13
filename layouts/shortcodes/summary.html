@@ -1,0 +1,7 @@
+<p>
+{{ range (where .Site.Pages "Section" "departures") }}
+   {{ range .Pages }}
+   <a href="{{ .Permalink}}"><b>{{ .Title }}</b></a></br>
+   {{ end }}
+{{ end }}
+</p>

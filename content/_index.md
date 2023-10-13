@@ -27,26 +27,8 @@ More questions? [Contact us](/about) 📫
 
 # Next edition
 
-## 🇫🇷 KubeCon EU - Paris, France 🇫🇷
+## KubeCon EU - Paris, France
 
-Departures from: **Coming soon...**
+# Departures from:
 
-<!--
-
-🇬🇧 **UK - London**
-
-🇪🇸 **Spain - Barcelona**
-
-🇧🇪 **Belgium - Brussels**
-
-🇳🇱 **Netherlands - Amsterdam**
-
-🇩🇪 **Germany - Frankfurt, Munich …**
-
-🇨🇭 **Switzerland - Geneva, Zurich**
-
-🇮🇹 **Italy - Milan, Turin**
-
-🇦🇹 **Austria - Vienna …**
-
--->
+{{< summary >}} 
