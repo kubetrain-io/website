@@ -1,4 +1,4 @@
-baseURL = 'https://kubetrain.io/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'KubeTrain'
 theme = ["github.com/RoneoOrg/hugo-shortcode-roneo-button-icon-badge", "github.com/theNewDynamic/gohugo-theme-ananke"]
