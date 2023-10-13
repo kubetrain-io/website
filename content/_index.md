@@ -23,7 +23,7 @@ We have dedicated page for you depending if you wish to
 [organize](/participate/as_community) or [sponsor](
 /participate/as_sponsor) this initiative. Have a look at them!
 
-More questions? [Contact us](/about) 📫
+More questions? [Contact us]({{< relref "/about" >}}) 📫
 
 # Next edition
 
