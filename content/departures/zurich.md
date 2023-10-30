@@ -9,9 +9,9 @@ cascade:
 weight: 100
 ---
 
-**Contact:** {{< cloakemail "zurich@kubetrain.io" >}}
+**Status:** {{< badge text="Registration open" icon="info" >}}
 
-**Status:** {{< badge text="Reserved" icon="sync" >}}
+**Tickets:** https://zurich.kubetrain.io/
 
 ### Journey
 
@@ -24,5 +24,7 @@ weight: 100
 🚏 16:03 Dijon
 🚉 17:38 Paris Gare de Lyon
 ```
+
+**Contact:** {{< cloakemail "zurich@kubetrain.io" >}}
 
 <!--more-->
