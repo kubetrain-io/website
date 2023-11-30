@@ -1,15 +1,15 @@
 ---
-title: "🇫🇷 Aix-Marseille"
+title: "🇨🇭 Geneva"
 
 description: ""
 type: page
 cascade:
   featured_image: '/images/train.jpeg'
 
-weight: 1
+weight: 35
 ---
 
-**Contact:** {{< cloakemail "aix-marseille@kubetrain.io" >}}
+**Contact:** {{< cloakemail "geneva@kubetrain.io" >}}
 
 **Status:** {{< badge text="Planning" icon="sync" >}}
 
