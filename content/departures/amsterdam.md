@@ -11,6 +11,10 @@ weight: 2
 
 **Contact:** {{< cloakemail "amsterdam@kubetrain.io" >}}
 
-**Status:** {{< badge text="Planning" icon="sync" >}}
+**Status:** {{< badge text="Finalizing" icon="info" >}}
+
+**Ticket sale starting in January** 🎉
+
+Get notified when tickets go live by writing to the contact email
 
 <!--more-->
