@@ -13,6 +13,8 @@ weight: 2
 
 **Status:** {{< badge text="Finalizing" icon="info" >}}
 
+**Sponsor prospectus:** [link](/docs/KubeTrain_Sponsorship_prospectus_NL.pdf)
+
 **Ticket sale starting in January** 🎉
 
 Get notified when tickets go live by writing to the contact email
