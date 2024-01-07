@@ -9,7 +9,7 @@ cascade:
 weight: 100
 ---
 
-**Status:** {{< badge text="Registration open" icon="info" >}}
+**Status:** {{< badge text="Registration open" icon="star" >}}
 
 **Tickets:** https://zurich.kubetrain.io/
 

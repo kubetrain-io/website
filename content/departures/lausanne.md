@@ -1,15 +1,15 @@
 ---
-title: "🇨🇭 Geneva"
+title: "🇨🇭 Lausanne"
 
 description: ""
 type: page
 cascade:
   featured_image: '/images/train.jpeg'
 
-weight: 35
+weight: 45
 ---
 
-**Contact:** {{< cloakemail "geneva@kubetrain.io" >}}
+**Contact:** {{< cloakemail "lausanne@kubetrain.io" >}}
 
 **Status:** {{< badge text="Independent" icon="accessibility" >}}
 

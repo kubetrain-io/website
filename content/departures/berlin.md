@@ -11,6 +11,8 @@ weight: 5
 
 **Contact:** {{< cloakemail "berlin@kubetrain.io" >}}
 
-**Status:** {{< badge text="Planning" icon="sync" >}}
+**Status:** {{< badge text="Independent" icon="accessibility" >}}
+
+**Train number:** Coming soon
 
 <!--more-->

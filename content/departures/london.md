@@ -6,11 +6,11 @@ type: page
 cascade:
   featured_image: '/images/train.jpeg'
 
-weight: 45
+weight: 46
 ---
 
 **Contact:** {{< cloakemail "london@kubetrain.io" >}}
 
-**Status:** {{< badge text="Planning" icon="sync" >}}
+**Status:** {{< badge text="Finalizing" icon="compass" >}}
 
 <!--more-->

@@ -8,3 +8,6 @@ sectionPagesMenu = 'main' # Enable submenus
 
 [params]
 mainSections = [] # Disable recent posts in homepage
+
+[markup.goldmark.renderer]
+unsafe= true # Needed to add custom HTML/JS in the markdown files

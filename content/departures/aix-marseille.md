@@ -11,6 +11,6 @@ weight: 1
 
 **Contact:** {{< cloakemail "aix-marseille@kubetrain.io" >}}
 
-**Status:** {{< badge text="Planning" icon="sync" >}}
+**Status:** {{< badge text="Finalizing" icon="compass" >}}
 
 <!--more-->
