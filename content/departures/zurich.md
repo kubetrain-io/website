@@ -11,7 +11,7 @@ weight: 100
 
 **Status:** {{< badge text="Registration closed" icon="info" >}}
 
-**Tickets:** https://zurich.kubetrain.io/
+**Tickets:** https://zurich.kubetrain.io/ - **SOLD OUT**
 
 ### Journey
 
