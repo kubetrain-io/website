@@ -50,10 +50,6 @@ trip you will be able to distribute your goodies and gadgets.
 📌 **Some free / discounted tickets for your employees** - As a sponsor you get
 some free / discounted tickets for your employees.
 
-📌 **Support KubeTrain party** - We are planning to have one final event the
-day before KubeCon with all the participants, sponsors and organizers. Your
-brand will be visible throughout the event. (work in progress...)
-
 📌 **And much more...** - As every community organizes independently, they also
 have the possibility to shape custom sponsor deals. Contact them to see what
 they have to offer.
