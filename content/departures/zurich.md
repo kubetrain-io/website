@@ -15,7 +15,7 @@ weight: 100
 
 ### Journey
 
-📅 18 March, 2024
+📅 18 March, 2024  
 🚂 TGV Lyria 9222
 
 ```
