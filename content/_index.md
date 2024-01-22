@@ -37,7 +37,10 @@ The aim of this initiative is to organize groups of people that are willing to t
 
 ## Main sponsors
 
+<div class="flex justify-center">
 {{< figure src="images/kcd_zurich.png" link="https://kcdzurich.ch/" target="_blank" >}}
+{{< figure src="images/kubermatic.png" link="https://kubermatic.com/" width="300" target="_blank" >}}
+</div>
 
 <!-- ## Community sponsors
 
