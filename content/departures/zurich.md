@@ -16,6 +16,7 @@ weight: 100
 ### Journey
 
 📅 18 March, 2024
+🚂 TGV Lyria 9222
 
 ```
 🚂 13:34 Zurich HB
