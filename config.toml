@@ -9,5 +9,7 @@ sectionPagesMenu = 'main' # Enable submenus
 [params]
 mainSections = [] # Disable recent posts in homepage
 
+ananke_socials = [{ name = "twitter", url = "https://x.com/KubeTrain_io"}, { name = "linkedin", url = "https://www.linkedin.com/company/100615169/" }]
+
 [markup.goldmark.renderer]
 unsafe= true # Needed to add custom HTML/JS in the markdown files
