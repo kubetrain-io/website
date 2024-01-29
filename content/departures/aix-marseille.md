@@ -11,7 +11,7 @@ weight: 1
 
 **Status:** {{< badge text="Registration open" icon="star" >}}
 
-**Tickets:** https://kutt.it/kubetrain
+**Tickets:** https://aix-marseille.kubetrain.io
 
 ### Journey
 
