@@ -19,7 +19,7 @@ weight: 2
 🚂 Eurostar 9364
 
 ```
-🚂 15:11 Asmterdam Centraal
+🚂 15:11 Amsterdam Centraal
 🚏 15:58 Rotterdam
 🚏 16:30 Antwerp
 🚉 17:08 Brussels
