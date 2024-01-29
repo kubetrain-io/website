@@ -9,8 +9,6 @@ cascade:
 weight: 2
 ---
 
-**Contact:** {{< cloakemail "amsterdam@kubetrain.io" >}}
-
 **Status:** {{< badge text="Registration open" icon="star" >}}
 
 **Tickets:** https://amsterdam.kubetrain.io
@@ -28,8 +26,6 @@ weight: 2
 🚉 18:40 Paris Gare du Nord
 ```
 
-**Sponsor prospectus:** [link](/docs/KubeTrain_Sponsorship_prospectus_NL.pdf)
-
-Get notifications about the train by writing to the contact email
+**Contact:** {{< cloakemail "amsterdam@kubetrain.io" >}}
 
 <!--more-->
