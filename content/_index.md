@@ -40,11 +40,14 @@ The aim of this initiative is to organize groups of people that are willing to t
 <div class="flex justify-center">
 {{< figure src="images/kcd_zurich.png" link="https://kcdzurich.ch/" target="_blank" >}}
 {{< figure src="images/kubermatic.png" link="https://kubermatic.com/" width="300" target="_blank" >}}
+{{< figure src="images/postfinance.png" link="https://www.postfinance.ch/" width="300" target="_blank" >}}
 </div>
 
-<!-- ## Community sponsors
+## Community sponsors
 
-## Supported by -->
+<div class="flex justify-center">
+{{< figure src="images/puzzle.png" link="https://puzzle.ch/" width="300" target="_blank" >}}
+</div>
 
   </div>
 </section>
