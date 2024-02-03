@@ -22,7 +22,7 @@ weight: 2
 🚂 15:11 Amsterdam Centraal
 🚏 15:58 Rotterdam
 🚏 16:30 Antwerp
-🚉 17:08 Brussels
+🚏 17:08 Brussels
 🚉 18:40 Paris Gare du Nord
 ```
 

@@ -37,33 +37,26 @@ The aim of this initiative is to organize groups of people that are willing to t
 
 ## Main sponsors
 
-<div class="flex justify-center">
-{{< figure src="images/kcd_zurich.png" link="https://kcdzurich.ch/" target="_blank" >}}
-{{< figure src="images/kubermatic.png" link="https://kubermatic.com/" width="300" target="_blank" >}}
-{{< figure src="images/postfinance.png" link="https://www.postfinance.ch/" width="300" target="_blank" >}}
+<div style="display: flex;flex-wrap: wrap">
+
+<a href="https://kcdzurich.ch/"><img style="margin: 1%" width="30%" src="images/algolia.png"></a>
+<a href="https://kcdzurich.ch/"><img style="margin: 1%" width="27%" src="images/kcd_zurich.png"></a>
+<a href="https://kcdzurich.ch/"><img style="margin: 1%" width="30%" src="images/dynatrace.png"></a>
+<a href="https://kcdzurich.ch/"><img style="margin: 1%" width="30%" src="images/isovalent.png"></a>
+<a href="https://kcdzurich.ch/"><img style="margin: 1%" width="30%" src="images/kubermatic.png"></a>
+<a href="https://kcdzurich.ch/"><img style="margin: 1%" width="30%" src="images/microsoft.png"></a>
+<a href="https://kcdzurich.ch/"><img style="margin: 1%" width="30%" src="images/postfinance.png"></a>
+<a href="https://kcdzurich.ch/"><img style="margin: 1%" width="30%" src="images/quickwit.png"></a>
+<a href="https://kcdzurich.ch/"><img style="margin: 1%" width="30%" src="images/vshn.png"></a>
 </div>
 
-## Community sponsors
+## Community sponsors and Train partners
 
-<div class="flex justify-center">
-{{< figure src="images/puzzle.png" link="https://puzzle.ch/" width="300" target="_blank" >}}
+<div style="display: flex;flex-wrap: wrap">
+
+<a href="https://kcdzurich.ch/"><img style="margin: 0 1% 2%" width="30%" src="images/fikaworks.png"></a>
+<a href="https://kcdzurich.ch/"><img style="margin: 1%;" width="27%" src="images/hashicorp.png"></a>
+<a href="https://kcdzurich.ch/"><img style="margin: 1%;" width="30%" src="images/puzzle.png"></a>
+
 </div>
 
-  </div>
-</section>
-
-<!--
-
-Preparation is in full-swing, if you want to know more about it have
-a look at [The Plan]({{< relref "/the_plan" >}}).
-
-**How can you help or participate? I am glad you asked** 😊
-
-We have dedicated page for you depending if you wish to [participate]({{<
-relref "/participate/as_traveler" >}}), [organize]({{< relref
-"/participate/as_community" >}}) or [sponsor]({{< relref "/participate/as_sponsor" >}}) this
-initiative. Have a look at them!
-
-More questions? [Contact us]({{< relref "/about" >}}) 📫
-
--->
