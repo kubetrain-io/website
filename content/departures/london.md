@@ -9,8 +9,21 @@ cascade:
 weight: 46
 ---
 
-**Contact:** {{< cloakemail "london@kubetrain.io" >}}
+**Status:** {{< badge text="Registration open" icon="star" >}}
 
-**Status:** {{< badge text="Finalizing" icon="compass" >}}
+**Tickets:** https://london.kubetrain.io
+
+
+### Journey
+
+📅 16 March, 2024  
+🚂 Eurostar 9018
+
+```
+🚂 10:31 London St. Pancras International
+🚉 13:52 Paris Gare du Nord
+```
+
+**Contact:** {{< cloakemail "london@kubetrain.io" >}}
 
 <!--more-->
