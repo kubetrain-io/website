@@ -9,9 +9,9 @@ cascade:
 weight: 1
 ---
 
-**Status:** {{< badge text="Registration open" icon="star" >}}
+**Status:** {{< badge text="Registration closed" icon="info" >}}
 
-**Tickets:** https://aix-marseille.kubetrain.io
+**Tickets:** https://aix-marseille.kubetrain.io - **SOLD OUT**
 
 ### Journey
 
