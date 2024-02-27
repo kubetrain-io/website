@@ -9,9 +9,9 @@ cascade:
 weight: 2
 ---
 
-**Status:** {{< badge text="Registration open" icon="star" >}}
+**Status:** {{< badge text="Registration closed" icon="info" >}}
 
-**Tickets:** https://amsterdam.kubetrain.io
+**Tickets:** https://amsterdam.kubetrain.io - **SOLD OUT**
 
 ### Journey
 
