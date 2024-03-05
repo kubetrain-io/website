@@ -54,6 +54,7 @@ The aim of this initiative is to organize groups of people that are willing to t
 
 <div style="display: flex;flex-wrap: wrap">
 
+<a href="https://www.leaf.cloud/"><img style="margin: 0 1% 2%" width="30%" src="images/leafcloud.png"></a>
 <a href="https://fika.works/"><img style="margin: 0 1% 2%" width="30%" src="images/fikaworks.png"></a>
 <a href="https://hashicorp.com/"><img style="margin: 1%;" width="27%" src="images/hashicorp.png"></a>
 <a href="https://puzzle.ch/"><img style="margin: 1%;" width="30%" src="images/puzzle.png"></a>
