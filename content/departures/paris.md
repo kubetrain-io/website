@@ -1,15 +1,15 @@
 ---
-title: "🇳🇱 Amsterdam"
+title: "🇫🇷 Paris"
 
 description: ""
 type: page
 cascade:
   featured_image: '/images/train.jpeg'
 
-weight: 2
+weight: 50
 ---
 
-**Status:** {{< badge text="Planning" icon="sync" >}}
+**Status:**  {{< badge text="Planning" icon="sync" >}}
 
 <!--
 **Tickets:** https://amsterdam.kubetrain.io - **SOLD OUT**

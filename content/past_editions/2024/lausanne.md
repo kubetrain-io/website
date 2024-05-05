@@ -7,6 +7,8 @@ cascade:
   featured_image: '/images/train.jpeg'
 
 weight: 45
+build:
+  list: never
 ---
 
 **Contact:** {{< cloakemail "lausanne@kubetrain.io" >}}

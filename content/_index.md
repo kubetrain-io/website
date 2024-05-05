@@ -5,6 +5,7 @@ description: "Sustainable travel for everyone"
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/train.jpeg'
+type: page
 ---
 
 <!-- Remove horizontal limits for agenda --> 
@@ -23,8 +24,8 @@ The aim of this initiative is to organize groups of people that are willing to t
 
 # Next edition
 
-## KubeCon EU
-## Paris, France
+## KubeCon EU 2025
+## London, UK
 
 # Departures:
 
@@ -38,28 +39,16 @@ The aim of this initiative is to organize groups of people that are willing to t
 ## Main sponsors
 
 <div style="display: flex;flex-wrap: wrap">
-
-<a href="https://www.algolia.com/"><img style="margin: 1%" width="30%" src="images/algolia.png"></a>
-<a href="https://kcdzurich.ch/"><img style="margin: 1%" width="27%" src="images/kcd_zurich.png"></a>
-<a href="https://www.dynatrace.com/"><img style="margin: 1%" width="30%" src="images/dynatrace.png"></a>
-<a href="https://isovalent.com/"><img style="margin: 1%" width="30%" src="images/isovalent.png"></a>
-<a href="https://kubermatic.com/"><img style="margin: 1%" width="30%" src="images/kubermatic.png"></a>
-<a href="https://microsoft.com/"><img style="margin: 1%" width="30%" src="images/microsoft.png"></a>
-<a href="https://postfinance.ch/"><img style="margin: 1%" width="30%" src="images/postfinance.png"></a>
-<a href="https://quickwit.io/"><img style="margin: 1%" width="30%" src="images/quickwit.png"></a>
-<a href="https://vshn.ch/"><img style="margin: 1%" width="30%" src="images/vshn.png"></a>
+Your logo here?
 </div>
 
 ## Community sponsors and Train partners
 
 <div style="display: flex;flex-wrap: wrap">
 
-<a href="https://www.leaf.cloud/"><img style="margin: auto 1% auto;" width="30%" src="images/leafcloud.png"></a>
-<a href="https://fika.works/"><img style="margin: 8% 1% 8%;" width="30%" src="images/fikaworks.png"></a>
-<a href="https://hashicorp.com/"><img style="margin: 8% 1% 8%;" width="27%" src="images/hashicorp.png"></a>
-<a href="https://puzzle.ch/"><img style="margin: 1%;" width="30%" src="images/puzzle.png"></a>
-<a href="https://paris.dev/"><img style="margin: 1%;" width="30%" src="images/paris.dev.png"></a>
-<a href="https://amsterdam.dev/"><img style="margin: 1%;" width="30%" src="images/amsterdam.dev.png"></a>
+Your logo here?
 
 </div>
+</div>
 
+</section>

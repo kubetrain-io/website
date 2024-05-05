@@ -7,6 +7,8 @@ cascade:
   featured_image: '/images/train.jpeg'
 
 weight: 46
+build:
+  list: never
 ---
 
 **Status:** {{< badge text="Registration open" icon="star" >}}

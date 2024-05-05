@@ -7,11 +7,13 @@ cascade:
   featured_image: '/images/train.jpeg'
 
 weight: 2
+
+build:
+  list: never
 ---
 
-**Status:** {{< badge text="Planning" icon="sync" >}}
+**Status:** {{< badge text="Registration closed" icon="info" >}}
 
-<!--
 **Tickets:** https://amsterdam.kubetrain.io - **SOLD OUT**
 
 ### Journey
