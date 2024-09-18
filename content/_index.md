@@ -24,19 +24,20 @@ The aim of this initiative is to organize groups of people that are willing to t
 
 # Next edition
 
-## KubeCon EU 2025
-## London, UK
+## 31st March 2025</br>KubeCon EU - London, UK
 
 # Departures:
 
 {{< summary >}}
 
   </div>
-  <div class="relative w-200 w-60-l mb4 bg-white">
+<div class="relative w-200 w-60-l mb4 bg-white">
 
 # Sponsors
 
-## Main sponsors
+## [The sponsor prospectus is out!](https://www.beautiful.ai/player/-O5CO0XndQoqglDwn_x0/KubeTrain-2025)
+
+<!-- ## Main sponsors
 
 <div style="display: flex;flex-wrap: wrap">
 Your logo here?
@@ -48,7 +49,7 @@ Your logo here?
 
 Your logo here?
 
-</div>
+</div-->
 </div>
 
 </section>
