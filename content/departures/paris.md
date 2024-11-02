@@ -9,8 +9,8 @@ cascade:
 weight: 50
 ---
 
-**Status:**  {{< badge text="Planning" icon="sync" >}}
+**Status:** {{< badge text="Registration open" icon="star" >}}
 
-**Tickets:** https://paris.kubetrain.io
+**Tickets:** https://tickets.kubetrain.io
 
 <!--more-->

@@ -1,18 +1,16 @@
 ---
-title: "🇳🇱 Amsterdam"
+title: "🇨🇭 Zurich"
 
 description: ""
 type: page
 cascade:
   featured_image: '/images/train.jpeg'
 
-weight: 2
+weight: 100
 ---
 
-**Status:** {{< badge text="Planning" icon="sync" >}}
+**Status:** {{< badge text="Registration open" icon="star" >}}
 
 **Tickets:** https://tickets.kubetrain.io
-
-**Planned release**: Late November
 
 <!--more-->
