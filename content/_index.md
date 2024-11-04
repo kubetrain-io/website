@@ -48,16 +48,16 @@ The aim of this initiative is to organize groups of people that are willing to t
 
 ## Platinum sponsors
 
-<a href="https://www.dynatrace.com/"><img style="margin: 1%" width="30%" src="images/dynatrace.png"></a>
+<a href="https://www.dynatrace.com/"><img style="margin: 1%" width="60%" src="images/dynatrace.png"></a>
 
 ## Gold sponsors
 
-<a href="https://airlock.com/"><img style="margin: 1%" width="30%" src="/images/airlock-logo.svg"></a>
+<a href="https://isovalent.com/"><img style="margin: 1%" width="50%" src="images/isovalent.png"></a>
 
 ## Silver sponsors
 
-<a href="https://isovalent.com/"><img style="margin: 1%" width="30%" src="images/isovalent.png"></a>
-<a href="https://vshn.ch/"><img style="margin: 1%" width="30%" src="images/vshn.png"></a>
+<a href="https://airlock.com/"><img style="margin: 1%" width="40%" src="/images/airlock-logo.svg"></a>
+<a href="https://vshn.ch/"><img style="margin: 1%" width="40%" src="images/vshn.png"></a>
 
 ## Bronze sponsors
 
