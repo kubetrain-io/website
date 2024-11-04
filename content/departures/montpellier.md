@@ -11,8 +11,6 @@ weight: 55
 
 **Status:** {{< badge text="Planning" icon="sync" >}}
 
-**Tickets:** https://tickets.kubetrain.io
-
-Planned release: Late November
+Wanna join? Let us know: info@kubetrain.io
 
 <!--more-->

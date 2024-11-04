@@ -22,17 +22,24 @@ The aim of this initiative is to organize groups of people that are willing to t
 
   <div class="relative w-100 w-30-l mb4 bg-white">
 
+# 🎉 Tickets 🎉
+
+# Ready to buy:
+
+## [🇫🇷 Paris](https://tickets.kubetrain.io/)
+## [🇨🇭 Zurich](http://kubetrain.cloudnativezurich.ch/)
+
+# Planning:
+
+## [🇳🇱Amsterdam](departures/amsterdam/)
+## [🇨🇭Geneva](departures/geneva/)
+## [🇫🇷Montpellier](departures/montpellier/)
+
 # Next edition
 
 ## 31st March 2025</br>KubeCon EU - London, UK
 
-# Tickets:
-
-## 🎟️ [tickets.kubetrain.io](https://tickets.kubetrain.io) 🎟️
-
-# Departures:
-
-{{< summary >}}
+<!-- {{< summary >}} -->
 
   </div>
 <div class="relative w-200 w-60-l mb4 bg-white">

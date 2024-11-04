@@ -11,6 +11,6 @@ weight: 100
 
 **Status:** {{< badge text="Registration open" icon="star" >}}
 
-**Tickets:** https://tickets.kubetrain.io
+**Tickets:** https://kubetrain.cloudnativezurich.ch/
 
 <!--more-->

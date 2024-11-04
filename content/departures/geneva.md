@@ -11,6 +11,6 @@ weight: 35
 
 **Status:** {{< badge text="Planning" icon="sync" >}}
 
-**Tickets:** https://tickets.kubetrain.io
+Wanna join? Let us know: info@kubetrain.io
 
 <!--more-->
