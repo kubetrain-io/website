@@ -28,7 +28,7 @@ The aim of this initiative is to organize groups of people that are willing to t
 
 # Tickets:
 
-## 🎟️ [tickets.kubetrain.io](https://tickets.kubetrain.io)
+## 🎟️ [tickets.kubetrain.io](https://tickets.kubetrain.io) 🎟️
 
 # Departures:
 
