@@ -68,6 +68,7 @@ The aim of this initiative is to organize groups of people that are willing to t
 ## Community sponsors
 
 <a href="https://cloudnativeday.ch/"><img style="margin: 1%;" width="30%" src="images/swiss_cloud_native_day.svg"></a>
+<a href="https://cloudnativesummit.de/"><img style="margin: 1%;" width="30%" src="images/cns_munich.png"></a>
 
 ## [The sponsor prospectus is out!](https://www.beautiful.ai/player/-O5CO0XndQoqglDwn_x0/KubeTrain-2025)
 
