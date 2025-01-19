@@ -1,5 +1,5 @@
 ---
-title: "🇨🇭 Geneva"
+title: "🇨🇭 Lausanne"
 
 description: ""
 type: page
@@ -9,9 +9,10 @@ cascade:
 weight: 35
 ---
 
-The event is coordinated by the
+The purchasing is coordinated by the
 [Association "Cloud Native Suisse Romande"](https://cloud-native-romandy.ch/events/kubetrain/).
 Tickets are purchased on your own.
+
 
 **Status:** {{< badge text="Registration open" icon="star" >}}
 
