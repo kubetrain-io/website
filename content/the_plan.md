@@ -10,7 +10,7 @@ menu: main
 
 KubeTrain wants to provide a sustainable and fun initiative for travelling
 to KubeCon by train. With our initiative we would like to encourage
-KubeCon's participants to consider evironmentally-friendly alternatives to
+KubeCon's participants to consider environmentally-friendly alternatives to
 plane travel.
 
 There are two challenges that make people prefer planes over train as main
