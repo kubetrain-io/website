@@ -1,0 +1,35 @@
+{
+  "name": "Hugo",
+  "image": "mcr.microsoft.com/devcontainers/base:bullseye",
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {},
+	  "ghcr.io/devcontainers/features/go:1": {},
+    // FIXME: Switch after upgrading Hugo
+    //"ghcr.io/devcontainers/features/hugo:1": {
+    // "version": "0.142",
+    //  "extended": "true"
+    //}
+  },
+  "customizations": {
+    "vscode": {
+      // Set *default* container specific settings.json values on container create.
+      "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash",
+        "debug.javascript.usePreview": false
+      },
+      // Add the IDs of extensions you want installed when the container is created.
+      "extensions": [
+        "streetsidesoftware.code-spell-checker",
+        "yzhang.markdown-all-in-one",
+        "redhat.vscode-yaml",
+        "shardulm94.trailing-spaces",
+        "oderwat.indent-rainbow",
+        "msjsdiag.debugger-for-chrome"
+      ],
+    },
+  },
+  "postCreateCommand": "CGO_ENABLED=1 go install -tags extended github.com/gohugoio/hugo@v0.125.6",
+  "forwardPorts": [
+      1313
+    ],
+}
