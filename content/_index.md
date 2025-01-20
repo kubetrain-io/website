@@ -45,6 +45,8 @@ The aim of this initiative is to organize groups of people that are willing to t
   </div>
 <div class="relative w-200 w-60-l mb4 bg-white">
 
+# Questions? Read our [FAQ!](https://faq.kubetrain.io)
+
 # Sponsors
 
 ## Platinum sponsors
@@ -70,8 +72,6 @@ The aim of this initiative is to organize groups of people that are willing to t
 
 <a href="https://cloudnativeday.ch/"><img style="margin: 1%;" width="30%" src="images/swiss_cloud_native_day.svg"></a>
 <a href="https://cloudnativesummit.de/"><img style="margin: 1%;" width="30%" src="images/cns_munich.png"></a>
-<a href="https://cloud-native-romandy.ch/events/kcd/"><img style="margin: 1%;" width="30%" src="images/kcd_suisse_romande.png"></a>
-
 
 ## [The sponsor prospectus is out!](https://www.beautiful.ai/player/-O5CO0XndQoqglDwn_x0/KubeTrain-2025)
 
