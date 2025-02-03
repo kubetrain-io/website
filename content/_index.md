@@ -67,6 +67,7 @@ The aim of this initiative is to organize groups of people that are willing to t
 <a href="https://fika.works/"><img style="margin: 1%;" width="30%" src="images/fikaworks.png"></a>
 <a href="https://cloudnativezurich.ch/"><img style="margin: 1%;" width="30%" src="images/cloud_native_zurich.png"></a>
 <a href="https://re-cinq.com/"><img style="margin: 1%;" width="30%" src="images/re_cinq.png"></a>
+<a href="https://cncf.io/"><img style="margin: 1%;" width="45%" src="images/cncf.svg"></a>
 
 ## Community sponsors
 
