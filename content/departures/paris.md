@@ -9,8 +9,10 @@ cascade:
 weight: 50
 ---
 
-**Status:** {{< badge text="Registration open" icon="star" >}}
+**Status:** {{< badge text="Registration closed" icon="info" >}}
 
 **Tickets:** https://tickets.kubetrain.io
+
+**Info:** info@kubetrain.io
 
 <!--more-->

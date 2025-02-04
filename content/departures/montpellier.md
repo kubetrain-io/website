@@ -9,8 +9,8 @@ cascade:
 weight: 55
 ---
 
-**Status:** {{< badge text="Planning" icon="sync" >}}
+**Status:** {{< badge text="Registration open" icon="star" >}}
 
-Wanna join? Let us know: info@kubetrain.io
+Wanna join? Let us know: julien.cresta@gmail.com
 
 <!--more-->

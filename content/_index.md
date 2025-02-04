@@ -27,14 +27,11 @@ The aim of this initiative is to organize groups of people that are willing to t
 # Ready to buy:
 
 ## [🇳🇱Amsterdam](https://tickets.kubetrain.io/)
-## [🇫🇷 Paris](https://tickets.kubetrain.io/)
-## [🇨🇭 Zurich](http://kubetrain.cloudnativezurich.ch/)
 ## [🇨🇭 Geneva](https://cloud-native-romandy.ch/events/kubetrain/)
 ## [🇨🇭 Lausanne](https://cloud-native-romandy.ch/events/kubetrain/)
-
-# Planning:
-
 ## [🇫🇷Montpellier](departures/montpellier/)
+## [🇫🇷 Paris](https://tickets.kubetrain.io/)
+## [🇨🇭 Zurich](http://kubetrain.cloudnativezurich.ch/)
 
 # Next edition
 
