@@ -74,6 +74,7 @@ The aim of this initiative is to organize groups of people that are willing to t
 <a href="https://cloudnativeday.ch/"><img style="margin: 1%;" width="30%" src="images/swiss_cloud_native_day.svg"></a>
 <a href="https://cloudnativesummit.de/"><img style="margin: 1%;" width="30%" src="images/cns_munich.png"></a>
 <a href="https://community.cncf.io/kcd-uk/"><img style="margin: 1%;" width="30%" src="images/kcd-uk-logo-idea.png"></a>
+<a href="https://kcdaustria.at/"><img style="margin: 1%;" width="60%" src="images/kcd_austria.svg"></a>
 
 ## [The sponsor prospectus is out!](https://www.beautiful.ai/player/-O5CO0XndQoqglDwn_x0/KubeTrain-2025)
 
