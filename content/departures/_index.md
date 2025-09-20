@@ -13,9 +13,9 @@ cascade:
 
 ## Legend
 
-{{< badge text="Planning" icon="sync" >}} There is interest in this Departure station. If you would like to [participate]({{< relref "/participate" >}}), let us know via email.
+{{< badge text="Planning" icon="sync" >}} There is interest in this Departure station. If you would like to participate, let us know via email.
 
-{{< badge text="Finalizing" icon="compass" >}} We are in the process of organizing the trainsportation and sponsorships. Additional information will be available soon.
+{{< badge text="Finalizing" icon="compass" >}} We are in the process of organizing the train-sportation and sponsorships. Additional information will be available soon.
 
 {{< badge text="Registration open" icon="star" >}} This train is running and currently taking reservations.
 
