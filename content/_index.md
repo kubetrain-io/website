@@ -24,20 +24,18 @@ The aim of this initiative is to organize groups of people that are willing to t
 
 # 🎉 Tickets 🎉
 
+## Ready to buy
+
 Coming Soon...
 
-<!-- # Ready to buy:
+## Planning
 
-## [🇳🇱Amsterdam](https://tickets.kubetrain.io/)
-## [🇨🇭 Geneva](https://cloud-native-romandy.ch/events/kubetrain/)
-## [🇨🇭 Lausanne](https://cloud-native-romandy.ch/events/kubetrain/)
-## [🇫🇷Montpellier](departures/montpellier/)
-## [🇫🇷 Paris](https://tickets.kubetrain.io/)
-## [🇨🇭 Zurich](http://kubetrain.cloudnativezurich.ch/)
+### 🇨🇭 Geneva
+### 🇬🇧 London
+### 🇫🇷 Paris
+### 🇨🇭 Zurich
 
--->
-
-# Next edition
+# 🎯 Next edition 🎯
 
 ## 22nd March 2025</br>KubeCon EU - Amsterdam, NL
 
@@ -46,9 +44,7 @@ Coming Soon...
   </div>
 <div class="relative w-200 w-60-l mb4 bg-white">
 
-# Questions? Read our [FAQ!](https://faq.kubetrain.io)
-
-# Sponsors
+# ⭐️ Sponsors ⭐️
 
 <!--
 ## Platinum sponsors
@@ -87,16 +83,16 @@ Coming Soon...
 
 ## Main sponsors
 
-<div style="display: flex;flex-wrap: wrap">
-Your logo here?
+<div style="display: flex;flex-wrap: wrap;justify-content: center;">
+
+Your logo here? Let us know at info@kubetrain.io
 </div>
 
 ## Community sponsors and Train partners
 
-<div style="display: flex;flex-wrap: wrap">
+<div style="display: flex;flex-wrap: wrap;justify-content: center;">
 
-Your logo here?
-
+Your logo here? Let us know at info@kubetrain.io
 </div>
 </div>
 
