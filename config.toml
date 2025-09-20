@@ -1,7 +1,8 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'KubeTrain'
-theme = ["github.com/RoneoOrg/hugo-shortcode-roneo-button-icon-badge", "github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = ["github.com/RoneoOrg/hugo-shortcode-roneo-button-icon-badge", "github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+googleAnalytics = ""
 
 enableRobotTXT = true
 sectionPagesMenu = 'main' # Enable submenus

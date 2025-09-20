@@ -7,7 +7,7 @@ you can run the local version just by running `hugo serve`.
 
 ### Local setup
 
-Make sure you run with `hugo extended_Hugo 0.125.6`.
+Make sure you run with `hugo extended_Hugo 0.150.0`.
 This version is old, but this is what is used in the deployment target.
 
 ### DevContainers
