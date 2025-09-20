@@ -16,7 +16,7 @@ Sounds great! We are sure you are going to love it 🎉
 ## How to participate
 
 Check out the [Departures]({{< relref "/departures" >}}) page and see if
-there is already a KubeTrain leaving from your depature. There is one
+there is already a KubeTrain leaving from your departure. There is one
 already? That's great! Follow the info on the dedicated page and you are
 ready to go.
 
